@@ -1,6 +1,6 @@
 # pdfMarger
 
-This is a command line tool for marging many pdf files into one pdf file
+This is a command line tool for marging pdf files into one pdf file
 
 ## How to use pdfMarger
 
@@ -11,7 +11,7 @@ This is a command line tool for marging many pdf files into one pdf file
 ```
 
 
-Run ```marge_pdf.py``` for merginf pdf file into one file
+Run ```marge_pdf.py``` for merging pdf files into one file
 
 >> arguments: \
     -l files to be marged (e.g sampleFile_1.pdf sampleFile_2.pdf) \
