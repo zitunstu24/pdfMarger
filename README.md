@@ -28,6 +28,6 @@ python marge_pdf.py -l sampleFile_1.pdf sampleFile_2.pdf -o /User/xyz/Desktop/ma
 
 Further modification/suggestions is welcome. Feel free to create issue if you have any \
 
-Any question? Please contact ``` @ Abul Khayer, Bioinformatician at Computomics zitunstu24@gmail.com ```
+Any question? Please contact ``` Abul Khayer (Zitu), Bioinformatician at Computomics zitunstu24@gmail.com ```
 
 
