@@ -7,7 +7,7 @@ Created on Thu Jun  9 20:50:23 2022
 """
 
 #%%
-from PyPDF2 import PdfFileManager
+from PyPDF2 import PdfFileMerger
 import argparse
 from pathlib import Path
 
@@ -41,7 +41,7 @@ def merge_pdf():
     
     args = get_agruments()
     
-    merger = PdfFileManager()
+    merger = PdfFileMerger()
     
     for pdf in args.pdf_files:
         
