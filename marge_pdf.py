@@ -44,9 +44,9 @@ def merge_pdf():
     
     merger = PdfFileMerger()
     
-    for pdf in args.pdf_files:
+    for pdf_file in args.pdf_files:
         
-        merger.append(pdf)
+        merger.append(pdf_file)
         
     merger.write(f"{args.output_prefix}.pdf")
     
