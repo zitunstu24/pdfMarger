@@ -23,6 +23,7 @@ def get_agruments():
     pdf_parser.add_argument(
         "-l",
         "--pdf-files",
+        nargs='+',
         help = "pdf files to be merged",
         required = True,
     )
